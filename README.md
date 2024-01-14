@@ -1,3 +1,4 @@
+![linkedin](https://github.com/jmlakshmisagar/LinkedInHomePageClone/assets/152427404/3ee77199-3bbb-469b-b632-2f98516e7a20)
 Repository Name:
 LinkedInClone
 
