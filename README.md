@@ -17,6 +17,4 @@ CSS3 (Flexbox/Grid)
 JavaScript
 Usage:
 
-Clone the repository.
-Open index.html in your preferred web browser.
-Explore the responsive and interactive LinkedIn clone.
+
